@@ -1,8 +1,6 @@
 # 4. Own Flaky CI Across the Org
 
 > See the [README](../README.md) for how to run the exercise and the shared reflection questions.
->
-> Real case: one of my promotion projects.
 
 **Your role:** An engineer on the infra team.
 
