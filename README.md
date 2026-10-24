@@ -28,4 +28,4 @@ The key questions:
 - Who actually matters in this decision, and what are they trying to achieve or protect?
 - Did the other person feel understood before you tried to move them toward a solution?
 
-**Understand first. Then build on it.**
+**Understand their perspective. Build on it. Find a way forward.**
