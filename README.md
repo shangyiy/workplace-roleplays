@@ -1,10 +1,8 @@
-<h1 align="center">yes-and</h1>
+# Yes, And
 
-<p align="center">
-  <em>Listen first. Add something. Move forward.</em>
-</p>
+Understand their perspective. Build on it. Find a way forward.
 
-Role-plays for engineers who need something from people they don't manage: another team's GPUs, a cross-team project to lead, a lead role after a staff engineer objects in public, flaky CI across the whole org.
+Practice influencing without authority through realistic workplace conversations.
 
 ## What you'll practice
 
@@ -27,7 +25,5 @@ The key questions:
 
 - Who actually matters in this decision, and what are they trying to achieve or protect?
 - Did the other person feel understood before you tried to move them toward a solution?
-
-**Understand their perspective. Build on it. Find a way forward.**
 
 The principles behind these exercises are written up as the [perspective skill](https://github.com/shangyiy/life-kit/tree/main/skills/domain/perspective).
