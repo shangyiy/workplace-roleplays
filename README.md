@@ -4,7 +4,7 @@
   <em>Listen first. Add something. Move forward.</em>
 </p>
 
-Practice influencing without authority through realistic workplace conversations.
+Role-plays for engineers who need something from people they don't manage: another team's GPUs, a cross-team project to lead, a lead role after a staff engineer objects in public, flaky CI across the whole org.
 
 ## What you'll practice
 
@@ -21,7 +21,7 @@ Pick a scenario in [`scenarios/`](scenarios/). Each one is written from your per
 
 1. **Role-play.** A partner plays the other stakeholder using the collapsed *For the facilitator* section. They don't reveal the underlying concern upfront; let the conversation unfold.
 2. **Reflect.** Use the *Analysis* section. What did you uncover, how did you make them feel understood, and did your next step address both sides?
-3. **Switch roles.** Your partner opens with "My project is important. I need this in two weeks." Hear it from the other side.
+3. **Switch roles.** Now you play the stakeholder, and your partner opens with "My project is important. I need this in two weeks." Notice how it lands.
 
 The key questions:
 
@@ -29,3 +29,5 @@ The key questions:
 - Did the other person feel understood before you tried to move them toward a solution?
 
 **Understand their perspective. Build on it. Find a way forward.**
+
+The principles behind these exercises are written up as the [perspective skill](https://github.com/shangyiy/life-kit/tree/main/skills/domain/perspective).
