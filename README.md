@@ -1,41 +1,29 @@
-# Workplace Role-Plays
+# Yes, And
 
-## Core Objective
+Understand their perspective. Build on it. Find a way forward.
 
-Help the participant experience this principle: when resources are scarce, cross-team collaboration is blocked, or project scope is unavailable, repeatedly emphasizing the importance of your own needs is less effective than doing two things first:
+Practice influencing without authority through realistic workplace conversations.
 
-1. **Identify the right stakeholder and clarify that person's actual needs, concerns, and success criteria.**
-2. **Listen first, help the other person feel understood, and then work together on a viable solution.**
+## What you'll practice
 
-Many problems that appear blocked are not caused by the other person refusing to help. The two sides may care about different things, or they may not yet have found an approach that addresses both sets of needs.
+When work gets blocked, pushing harder for what you need is rarely the best first move. Practice two things:
 
-## How to Run the Exercise
+1. **Understand the other side.** Identify the right stakeholder and uncover their actual needs, concerns, constraints, and success criteria.
+2. **Build a way forward together.** Listen first, make the other person feel understood, and work toward a solution that addresses both sides' needs.
 
-Each scenario is one file in [`roleplay/`](roleplay/), written from the participant's point of view: **Your role**, **Your goal**, and **The situation**. Share only those. Two collapsed sections are for you: **For the facilitator** describes the other party you play and the concern they will not volunteer, and **Analysis** is a short debrief to read together after the exercise.
+"Yes, and" doesn't mean accepting every request. Sometimes the constraint is real, and recognizing it, changing strategy, or finding another stakeholder is also a good outcome.
 
-Let the participant respond instinctively and try to persuade you, while you play the other party.
+## How to practice
 
-Do not reveal the concern too quickly, and do not make the exercise artificially difficult. Decide naturally how much information to share based on the participant's questions and responses.
+Pick a scenario in [`scenarios/`](scenarios/). Each one is written from your perspective.
 
-Afterward, review the conversation together, using the Analysis section. Did the participant uncover the real need, understand the other party's concern, and propose a next step both sides could accept?
+1. **Role-play.** A partner plays the other stakeholder using the collapsed *For the facilitator* section. They don't reveal the underlying concern upfront; let the conversation unfold.
+2. **Reflect.** Use the *Analysis* section. What did you uncover, how did you make them feel understood, and did your next step address both sides?
+3. **Switch roles.** Now you play the stakeholder, and your partner opens with "My project is important. I need this in two weeks." Notice how it lands.
 
-**Then swap roles for one round.** After the review, the participant plays the other party and you play the participant, opening the typical way (for example, "My project is important. I need this in two weeks."). Experiencing that pitch from the other side shows the participant why it does not work, which builds perspective-taking better than reading the other side's concern on paper.
+The key questions:
 
-At the end of every scenario, discuss these two questions:
+- Who actually matters in this decision, and what are they trying to achieve or protect?
+- Did the other person feel understood before you tried to move them toward a solution?
 
-- Who is the key stakeholder in this situation? What does that person actually want to accomplish, and what are they worried about?
-- Did you first help the other person feel, "You understand my situation"? What specifically did you do?
-
-## Shared Reflection After Every Scenario
-
-In addition to each scenario's specific questions, you can ask:
-
-- If you were the other person, what would your first reaction be to what you just heard?
-- Which sentence made the other person more willing to reveal the real concern? Which sentence might have made them defensive?
-- If you could restart only once, what would you ask first?
-- Did your proposal address both your own need and the other person's concern?
-- When should you continue exploring, when should you propose a solution, and when should you accept a constraint, change strategy, or find another stakeholder?
-
-Close with one sentence:
-
-**First understand what the other person cares about, then work together on a next step both sides can accept.**
+The principles behind these exercises are written up as the [perspective skill](https://github.com/shangyiy/life-kit/tree/main/skills/domain/perspective).
