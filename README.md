@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/mascot.png" alt="A capybara in a hoodie holding a coffee mug, with a + speech bubble" width="200"></p>
+
 # Yes, And
 
 Understand their perspective. Build on it. Find a way forward.
